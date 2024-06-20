@@ -3,6 +3,10 @@
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
 - <b>Active Directory Home Lab (In progress)</b>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Metasploitable 2 Exploiting</b>
  
 
 
