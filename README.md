@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Metasploitable 2 - Exploiting NFS and cracking hashing with JohnTheRipper</b>
+- <b>Metasploitable 2 - Exploiting NFS and cracking hashing with JohnTheRipper(https://github.com/kofiarthurs/Metasploitable-2)</b>
  
 
 
