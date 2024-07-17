@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
-- <b>Active Directory Home Lab (In progress)</b>
+- <b>Adding a pc to the active directory domain</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
