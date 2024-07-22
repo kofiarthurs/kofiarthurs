@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
-- <b>Adding a pc to the active directory domain</b>
+- <b>[Adding a pc to the active directory domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
