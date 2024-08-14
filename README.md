@@ -9,7 +9,9 @@
 - <b>[Metasploitable 2 - Exploiting NFS and cracking hashing with JohnTheRipper](https://github.com/kofiarthurs/Metasploitable-2)</b>
 - <b>[Routing internet traffic through a pfSense firewall](https://github.com/kofiarthurs/pfSense)</b>
  
+<h2>👨‍💻 Cloud Projects:</h2>
 
+- <b>[AWS lab ssh into ec2 instance]</b>
 
 <h2> 🤳 Connect with me:</h2>
 
