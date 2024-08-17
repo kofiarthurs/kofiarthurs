@@ -11,7 +11,7 @@
  
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>[AWS lab ssh into ec2 instance]</b>
+- <b>[AWS lab, SSH into EC2 instance](https://github.com/kofiarthurs/aws-ec2)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
