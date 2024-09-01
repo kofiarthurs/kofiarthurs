@@ -1,4 +1,5 @@
 <h1>Hi, I'm Elshadin!</h1>
+Hey there! I'm incredibly enthusiastic about technology and cybersecurity! I hope to start my career in the GRC space. The thought of navigating through this fast-paced and ever-evolving industry ignites a fire within me. 
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
