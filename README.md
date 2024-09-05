@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elshadin!</h1>
-Hey there! I'm incredibly enthusiastic about technology and cybersecurity! I hope to start my career in the GRC space. The thought of navigating through this fast-paced and ever-evolving industry ignites a fire within me. 
+A bit about me: I'm currently studying computer networking and security. I went through the A+, Network+, and a bit of the Sec+ curriculum. I'm interested in an IT User Support role. I eventually want to become a penetration tester. You know, black hoodie, dark eyes, empty monster cans etc, etc. 
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
