@@ -4,6 +4,8 @@ A bit about me: I'm currently studying computer networking and security. I went 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
 - <b>[Adding a user to the active directory domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
+- <b>[Active Directory - Disabled Account Fixes](https://github.com/kofiarthurs/AD-account-enable)</b>
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
