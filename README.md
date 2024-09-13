@@ -5,7 +5,7 @@ A bit about me: I'm currently studying computer networking and security. I went 
 
 - <b>[Adding a user to the active directory domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
 - <b>[Active Directory - Disabled Account Fixes](https://github.com/kofiarthurs/AD-account-enable)</b>
-- <b>[Active Directory - User Falls From Domain](https://github.com/kofiarthurs/AD-account-enable)</b>
+- <b>Active Directory - User Falls From Domain (IN THE WORKS)</b>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
