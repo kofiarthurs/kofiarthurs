@@ -3,7 +3,7 @@ A bit about me: I'm currently studying computer networking and security. I went 
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
-- <b>[Adding a user to the active directory domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
+- <b>[Adding a User to The Active Directory Domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
 - <b>[Active Directory - Disabled Account Fixes](https://github.com/kofiarthurs/AD-account-enable)</b>
 - <b>Active Directory - User Falls From Domain (IN THE WORKS)</b>
 
