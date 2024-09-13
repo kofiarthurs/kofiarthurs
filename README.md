@@ -5,16 +5,17 @@ A bit about me: I'm currently studying computer networking and security. I went 
 
 - <b>[Adding a user to the active directory domain](https://github.com/kofiarthurs/Adding-pc-to-domain)</b>
 - <b>[Active Directory - Disabled Account Fixes](https://github.com/kofiarthurs/AD-account-enable)</b>
+- <b>[Active Directory - User Falls From Domain](https://github.com/kofiarthurs/AD-account-enable)</b>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Metasploitable 2 - Exploiting NFS and cracking hashing with JohnTheRipper](https://github.com/kofiarthurs/Metasploitable-2)</b>
-- <b>[Routing internet traffic through a pfSense firewall](https://github.com/kofiarthurs/pfSense)</b>
+- <b>[Metasploitable 2 - Exploiting NFS and Cracking Hashes with JohnTheRipper](https://github.com/kofiarthurs/Metasploitable-2)</b>
+- <b>[Routing Internet Traffic Through a pfSense Firewall](https://github.com/kofiarthurs/pfSense)</b>
  
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>[AWS lab, SSH into EC2 instance](https://github.com/kofiarthurs/aws-ec2)</b>
+- <b>[AWS Lab, SSH into EC2 Instance](https://github.com/kofiarthurs/aws-ec2)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
