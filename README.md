@@ -7,6 +7,7 @@ A bit about me: I'm currently studying computer networking and security. I went 
 - <b>[Active Directory - Disabled Account Fixes](https://github.com/kofiarthurs/AD-account-enable)</b>
 - <b>[Active Directory - User Falls From Domain](https://github.com/kofiarthurs/ad-user-disconnected)</b>
 - <b>[Active Directory - Share Drives](https://github.com/kofiarthurs/share-drives)</b>
+- <b>[Active Directory - Group Policy](https://github.com/kofiarthurs/group-policy)</b>
 
 
 
