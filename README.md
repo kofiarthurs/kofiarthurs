@@ -1,7 +1,10 @@
 <h1>Hi, I'm Elshadin!</h1>
 A bit about me: I'm currently studying computer networking and security. I went through the A+, Network+, and a bit of the Sec+ curriculum. I'm interested in an IT User Support role. I eventually want to become a penetration tester. You know, black hoodie, dark eyes, empty monster cans etc, etc.
-</b>
+
 Check out my youtube channel for more projects https://www.youtube.com/@kofiarthur3402.
+
+
+
 
 <h2>👨‍💻 IT Help Desk Projects:</h2>
 
