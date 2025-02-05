@@ -14,6 +14,7 @@ Check out my youtube channel for more projects https://www.youtube.com/@kofiarth
 - <b>[Active Directory - Share Drives](https://github.com/kofiarthurs/share-drives)</b>
 - <b>[Active Directory - Group Policy](https://github.com/kofiarthurs/group-policy)</b>
 - <b>[Windows 11 BitLocker](https://github.com/kofiarthurs/Windows-11---Bitlocker)</b>
+- <b>[Software Deployment with PDQ](https://github.com/kofiarthurs/software-deployment)</b>
 
 
 
