@@ -25,7 +25,7 @@ Check out my youtube channel for more projects https://www.youtube.com/@kofiarth
 - <b>[Metasploitable 2 - Exploiting NFS and Cracking Hashes with JohnTheRipper](https://github.com/kofiarthurs/Metasploitable-2)</b>
 - <b>[Routing Internet Traffic Through a pfSense Firewall](https://github.com/kofiarthurs/pfSense)</b>
 - <b>[Multiple-Factor Authentication (MFA) with DUO](https://github.com/kofiarthurs/mfa-duo)</b>
-- <b>Elastic SIEM (Current Project)</b>
+- <b>[Elastic SIEM](https://github.com/kofiarthurs/elastic-siem)</b>
 
  
 <h2>👨‍💻 Cloud Projects:</h2>
