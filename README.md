@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elshadin!</h1>
-A bit about me: I'm currently studying computer networking and security. I went through the A+, Network+, and a bit of the Sec+ curriculum. I'm interested in an IT User Support role. I eventually want to become a penetration tester. You know, black hoodie, dark eyes, empty monster cans etc, etc.
+IT Support Analyst with over 2 years of experience deploying and managing Microsoft 365, troubleshooting desktop issues, and optimizing system performance. Skilled in software installation, application configuration, and providing tailored IT solutions to enhance efficiency. Strong background in advising on hardware purchases, managing Outlook calendars, and training employees on cybersecurity best practices. Adept at problem-solving, streamlining workflows, and ensuring seamless IT operations to support business objectives.
 
 Check out my youtube channel for more projects https://www.youtube.com/@kofiarthur3402.
 
