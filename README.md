@@ -1,5 +1,5 @@
 <h1>Hi, I'm Elshadin!</h1>
-IT Support Analyst with over 2 years of experience deploying and managing Microsoft 365, troubleshooting desktop issues, and optimizing system performance. Skilled in software installation, application configuration, and providing tailored IT solutions to enhance efficiency. Strong background in advising on hardware purchases, managing Outlook calendars, and training employees on cybersecurity best practices. Adept at problem-solving, streamlining workflows, and ensuring seamless IT operations to support business objectives.
+IT Support Technician with over 2 years of experience deploying and managing Microsoft 365, troubleshooting desktop issues, and optimizing system performance. Skilled in software installation, application configuration, and providing tailored IT solutions to enhance efficiency. Strong background in advising on hardware purchases, managing Outlook calendars, and training employees on cybersecurity best practices. Adept at problem-solving, streamlining workflows, and ensuring seamless IT operations to support business objectives.
 
 Check out my youtube channel for more projects https://www.youtube.com/@kofiarthur3402.
 
