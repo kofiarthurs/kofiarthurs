@@ -16,6 +16,8 @@ Check out my youtube channel for more projects https://www.youtube.com/@kofiarth
 - <b>[Windows 11 BitLocker](https://github.com/kofiarthurs/Windows-11---Bitlocker)</b>
 - <b>[Software Deployment with PDQ](https://github.com/kofiarthurs/software-deployment)</b>
 - <b>[Networking VLAN and DHCP Configuration](https://github.com/kofiarthurs/dhcp-vlan)</b>
+- <b>[Active Directory - DFS Namespaces](https://github.com/kofiarthurs/dfs_namespaces)</b>
+
 
 
 
